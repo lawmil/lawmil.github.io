@@ -1,0 +1,10 @@
+#project {
+    margin-top: 15em;
+}
+
+.c-picture {
+    width: 20em;
+    height: 20em;
+    object-fit: cover;
+    margin: auto;
+}
