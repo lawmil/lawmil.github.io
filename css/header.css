@@ -1,5 +1,40 @@
 .a-picture{
-    width: 100vw;
-    height: 70vh;
+    width: 110vw;
+    height: 60vh;
     object-fit: cover;
+}
+
+.crew {
+    color:rgb(184, 33, 33);
+    font-family: 'Denk One', sans-serif;
+    text-shadow: 2px 2px #f1efefc9;
+}
+
+.terry {
+    color: whitesmoke;
+}
+
+.smith{
+    color:rgb(10, 136, 31);
+    font-family: 'Denk One', sans-serif;
+    text-shadow: 2px 2px #f1efefc9;
+}
+
+.will{
+    color: whitesmoke;
+}
+
+.johnson {
+    color:rgb(98, 7, 134);
+    font-family: 'Denk One', sans-serif;
+    text-shadow: 2px 2px #f1efefc9;
+}
+
+.dwayne {
+    color: whitesmoke;
+}
+
+
+h1 {
+    color: blue;
 }

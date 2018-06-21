@@ -1,5 +1,6 @@
 #project {
-    margin-top: 15em;
+    margin-top: 20em;
+
 }
 
 .c-picture {
@@ -7,4 +8,9 @@
     height: 20em;
     object-fit: cover;
     margin: auto;
+}
+
+.card{
+    border: transparent;
+    background-color: green;  
 }
